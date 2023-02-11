@@ -1,0 +1,41 @@
+[
+    {
+        "model": "fetch_branch_data.bank",
+        "fields": {
+            "id": 1,
+            "name": "STATE BANK OF INDIA"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.bank",
+        "fields": {
+            "id": 2,
+            "name": "PUNJAB NATIONAL BANK"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.bank",
+        "fields": {
+            "id": 3,
+            "name": "CANARA BANK"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.bank",
+        "fields": {
+            "id": 4,
+            "name": "BANK OF BARODA"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.bank",
+        "fields": {
+            "id": 5,
+            "name": "HDFC BANK"
+        }
+    }
+]

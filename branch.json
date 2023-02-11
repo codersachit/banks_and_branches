@@ -1,0 +1,144 @@
+[
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "BARB0AAMBUR",
+            "bank_id": "4",
+            "branch": "AMBUR",
+            "address": "44 15A BYPASS ROAD AMBUR CHENNAI TAMIL NADU 635802",
+            "city": "CHENNAI",
+            "district": "CHENNAI",
+            "state": "TAMIL NADU"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "BARB0AANTIY",
+            "bank_id": "4",
+            "branch": "AANTIYAA",
+            "address": "TALAB 1385, SHARDA HILLS COLONY,NEW BASTI,AANTIYAA TALAB,MAIN ROAD,JHANSI,UTTAR PRADESH 284001",
+            "city": "JHANSI",
+            "district": "JHANSI",
+            "state": "UTTAR PRADESH"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "BARB0AARANI",
+            "bank_id": "4",
+            "branch": "ARANI",
+            "address": "33 GANDHI ROAD OPP OLD BUS STAND ARANI DIST THIRUVANNAMALAI TAMIL NADU 632301",
+            "city": "ARNI",
+            "district": "TIRUVANNAMALAI",
+            "state": "TAMIL NADU"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "CNRB0001347",
+            "bank_id": "3",
+            "branch": "JAWALE",
+            "address": "NEAR PRIMARY HEALTH CENTRE, , TAL KHANDALA, JAWALE , DIST SATARA - 412 801",
+            "city": "JAWALE",
+            "district": "SATARA",
+            "state": "MAHARASHTRA"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "CNRB0001348",
+            "bank_id": "3",
+            "branch": "VAYALUR",
+            "address": "1/39, SOUTH STREET, VAYALUR, DIST THIRUVALLUR (T N) -  603102",
+            "city": "VOYALUR",
+            "district": "THIRUVALLUR",
+            "state": "TAMIL NADU"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "CNRB0001349",
+            "bank_id": "3",
+            "branch": "KADAMALAIGUNDU",
+            "address": "DOOR NO.270, VARUSANADU, MAIN ROAD,, KADAMALAIGUNDU 625579",
+            "city": "KADAMALAIGUNDU",
+            "district": "THENI",
+            "state": "TAMIL NADU"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "HDFC0002433",
+            "bank_id": "5",
+            "branch": "RASRA (DIST - BALLIA)",
+            "address": "HOUSE NO 247, WARD NO 5, VILLAGE RASRA ANDAR, RASRA RASRA (DIST - BALLIA) UTTAR PRADESH 221712",
+            "city": "RASRA",
+            "district": "BALLIA",
+            "state": "UTTAR PRADESH"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "HDFC0002434",
+            "bank_id": "5",
+            "branch": "JHUSI",
+            "address": "HDFC BANK LTD. HOUSE NO 1/1, AWAS VIKA S JHUSI SCHEME NO 3 ALLAHABAD UTTAR PRADESH 211019",
+            "city": "JHUSI",
+            "district": "ALLAHABAD",
+            "state": "UTTAR PRADESH"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "PUNB0257200",
+            "bank_id": "2",
+            "branch": "DELHI",
+            "address": "C-189, MADHUBAN DELHI",
+            "city": "DELHI",
+            "district": "DELHI",
+            "state": "DELHI"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "PUNB0258400",
+            "bank_id": "2",
+            "branch": "BASANTPUR",
+            "address": "BASANTPUR, DISTT. SIMLA (HP) (M)",
+            "city": "SHIMLA",
+            "district": "SHIMLA",
+            "state": "HIMACHAL PRADESH"
+        }
+    },
+
+    {
+        "model": "fetch_branch_data.branch",
+        "fields": {
+            "ifsc": "SBIN0012510",
+            "bank_id": "1",
+            "branch": "GANGAPUR SOMESHWAR (NASIK)",
+            "address": "GANGAPUR SOMESHWAR,NASIK,MATOSHRI COMPLEX,VILGANGAPUR,DISTNASIK 422222",
+            "city": "NASIK",
+            "district": "NASIK",
+            "state": "MAHARASHTRA"
+        }
+    }
+]
