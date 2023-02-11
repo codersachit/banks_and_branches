@@ -1,0 +1,3 @@
+Description of the method used to solve the problem:-
+
+I have used python's django framework to solve the problem. In the process of solving the problem, i have installed graphene-django package. Graphene-django lets me add graphql functionality to my project. In the project, there is only one application named fetch_branch_data.In that application, there are two model classes- bank and branch. Branch has a foreign key relation with bank as each branch is associated with a bank. For testing purposes, i have populate my tables using two json files - bank.json for bank table and branch.json for branch table. In schema.py file within the fetch_branch_data app, BankNode class lets me expose the data of Banks and BranchNode class lets me expose the data of Branches.
